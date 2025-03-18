@@ -1,7 +1,5 @@
 # Country Detail Finder
 
-\
-*A brief tagline or description of the project.*
 
 ## 📌 About
 
