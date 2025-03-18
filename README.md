@@ -36,7 +36,7 @@ Simply open the project in a browser and interact with the UI to see real-time u
 For any inquiries, feel free to reach out:
 
 - GitHub: @Alwaystanishq
-- Email: contact.tanishqchauhan.com
+- Email: contact.tanishqchauhan@gmail.com
 
 ---
 
